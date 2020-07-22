@@ -1,21 +1,21 @@
-"# Patterns Design" 
+### **Design Patterns**
 
 Creational, Strutural , Behavioral Design Patterns  - examples on Javascript
 
-Creational:
+**Creational:**
  - Constructor
  - Factory
  - Prototype
  - Singleton
 
-Structural:
+**Structural:**
  - Adaptor
  - Decorator
  - Facade
  - Flyweight
  - Proxy
  
-Behavioral:
+**Behavioral:**
  - Chain of responsibility
  - Command
  - Iterator
